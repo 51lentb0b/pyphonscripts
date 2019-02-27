@@ -1,0 +1,10 @@
+#! /usr/bin/ python3
+
+phrase = "Hello\nHowareyou?"
+print(phrase)
+print(len(phrase))
+print(phrase[0])
+print(phrase.index("o"))
+print(phrase.index("H"))
+print(phrase.replace("Hello", "Privet"))
+print("Hello" + "Pirate")
